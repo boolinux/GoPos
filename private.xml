@@ -2,6 +2,6 @@
 <item>
     <version>1.0.0.0</version>
     <url>https://github.com/boolinux/GoPos/raw/main/Update.zip</url>
-    <changelog>https://raw.githubusercontent.com/boolinux/GoPos/main/readme.md</changelog>
+    <changelog>https://raw.githubusercontent.com/boolinux/GoPos/main/README.md</changelog>
     <mandatory>true</mandatory>
 </item>
